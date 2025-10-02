@@ -1,7 +1,5 @@
-# BrightTV
-
-# Coffee-Shop-Sales-Analysis
-**This repository is a complete case study submission for my data analytics learning journey as an Aspiring Data Analyst, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation.**
+## Bright TV
+This repository showcases my growth in the Data Analytics space, highlighting my strengths, skills, and ability to turn data into actionable insights that solve real-world business challenges.
 
 ## 📌 Problem Statement
 
