@@ -53,7 +53,7 @@ My work is saved in folders,below is a breakdown for each folder under this Repo
 - Top Channels: Supersport Live Events & Cricket dominate engagement.
 - Category Performance: Entertainment underperforms compared to sports.
 
-## -📈 User & Usage Trends
+## 📈 User & Usage Trends
 
 - Growth opportunities exist in underutilized time slots (morning/early afternoon).
 - High sports engagement suggests potential for sports-driven promotions.
