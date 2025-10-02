@@ -36,7 +36,7 @@ My work is saved in folders,below is a breakdown for each folder under this Repo
 
 [DOCUMENTS](./Documents/): Case study, Miro Plan and Dashboard
 
-[PRESENTATION](./Presentation/): pdf     
+[PRESENTATION](./Presentation/): Bright TV CVM Presentation    
 
 ## 📊 Analysis & Key Findings
 
