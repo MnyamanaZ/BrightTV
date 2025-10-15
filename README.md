@@ -36,7 +36,10 @@ My work is saved in folders,below is a breakdown for each folder under this Repo
 
 [DOCUMENTS](./Documents/): Case study, Miro Plan and Dashboard
 
-[PRESENTATION](./Presentation/): Bright TV CVM Presentation    
+[PIVOT TABLES & CHARTS](./PIVOT%20TABLES%20&%20CHARTS/) : Pivot Tables & Charts
+
+[PRESENTATION](./Presentation/): Bright TV CVM Presentation   
+
 
 ## 📊 Analysis & Key Findings
 
